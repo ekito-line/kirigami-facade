@@ -1,5 +1,5 @@
 # Kirigami Facade
-Program that generates a "kirigami" shaped facade and analyzes the light environment and structure, created in 2021. (Tool: Rhinoceros + Grasshopper)
+This program generates a "kirigami" shaped facade and analyzes the light environment and structure, created in 2021. (Tool: Rhinoceros + Grasshopper)
 
 Video of the program in action: https://youtu.be/reobEfv_Jsc
 
